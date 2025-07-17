@@ -1,0 +1,12 @@
+torch>=1.7.0
+opencv-python
+flask
+numpy
+pandas
+matplotlib
+Pillow
+scipy
+tqdm
+pyyaml
+seaborn
+thop
